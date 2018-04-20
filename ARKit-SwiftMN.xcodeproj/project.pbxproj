@@ -14,7 +14,6 @@
 		B8B9E032208961A100F46984 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B8B9E030208961A100F46984 /* LaunchScreen.storyboard */; };
 		B8B9E03A208A4BF000F46984 /* Laptop.mov in Resources */ = {isa = PBXBuildFile; fileRef = B8B9E039208A4BF000F46984 /* Laptop.mov */; };
 		B8B9E03C208A565100F46984 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B8B9E03B208A565100F46984 /* Assets.xcassets */; };
-		B8B9E03E208A5E4500F46984 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = B8B9E03D208A5E4500F46984 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,7 +26,6 @@
 		B8B9E033208961A100F46984 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B8B9E039208A4BF000F46984 /* Laptop.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Laptop.mov; sourceTree = "<group>"; };
 		B8B9E03B208A565100F46984 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		B8B9E03D208A5E4500F46984 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,7 +58,6 @@
 		B8B9E024208961A000F46984 /* ARKit-SwiftMN */ = {
 			isa = PBXGroup;
 			children = (
-				B8B9E03D208A5E4500F46984 /* README.md */,
 				B8B9E025208961A100F46984 /* AppDelegate.swift */,
 				B8B9E027208961A100F46984 /* art.scnassets */,
 				B8B9E029208961A100F46984 /* ViewController.swift */,
@@ -131,7 +128,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B8B9E03E208A5E4500F46984 /* README.md in Resources */,
 				B8B9E028208961A100F46984 /* art.scnassets in Resources */,
 				B8B9E032208961A100F46984 /* LaunchScreen.storyboard in Resources */,
 				B8B9E03A208A4BF000F46984 /* Laptop.mov in Resources */,
